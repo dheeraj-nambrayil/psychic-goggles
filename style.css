@@ -1,0 +1,114 @@
+.login .loginbtn > button, .login .createacc > button {
+  width: 364px;
+  height: 48px;
+  border-radius: 6px;
+  font-size: 20px;
+  font-weight: 900; }
+
+.login .uname > input, .login .password > input {
+  width: 330px;
+  border-color: rgba(0, 0, 0, 0.342);
+  color: rgba(0, 0, 0, 0.342);
+  font-size: 17px;
+  border-radius: 6px;
+  padding: 14px 16px 14px 16px;
+  margin: 10px; }
+
+body {
+  background-color: #f2f4f7;
+  font-family: Helvetica, Arial, sans-serif; }
+
+.main {
+  display: flex; }
+
+.info {
+  margin-left: 24.3%;
+  margin-top: 196px; }
+  .info .logo {
+    color: #0167ff;
+    font-size: 60px;
+    font-family: klavika, Helvetica, Arial, sans-serif;
+    font-weight: bold; }
+  .info .expln {
+    font-family: Helvetica, Arial, sans-serif;
+    font-size: 28px;
+    width: 500px; }
+
+.loginbtn > #loginbtnmain:hover {
+  background-color: rgba(1, 103, 255, 0.952);
+  border-color: rgba(1, 103, 255, 0.952); }
+
+#newacc:hover {
+  background-color: #069712;
+  border-color: #069712; }
+
+.login {
+  width: 396px;
+  height: 351.317px;
+  background-color: #fff;
+  align-items: center;
+  margin-top: 125px;
+  margin-left: 80px; }
+  .login .uname > input {
+    margin-top: 15px;
+    margin-left: 15px;
+    box-shadow: none;
+    border-color: rgba(255, 255, 255, 0.815);
+    border-width: 0.1px;
+    border: #f2f4f7 solid; }
+  .login .password > input {
+    margin-top: 5px;
+    margin-left: 15px;
+    box-shadow: #0167ff;
+    border-color: rgba(255, 255, 255, 0.815);
+    border-width: 0.1px;
+    border: #f2f4f7 solid 0.5px; }
+  .login .loginbtn > button {
+    background-color: #0167ff;
+    color: white;
+    margin-top: 10px;
+    padding-top: 0px;
+    margin-left: 15px;
+    border-color: #0167ff; }
+  .login .forgotpass {
+    margin: 17px 0px 12px 0px;
+    font-size: 14px;
+    text-align: center; }
+  .login .forgotpass > a {
+    color: #0167ff;
+    font-family: Helvetica, Arial, sans-serif;
+    text-decoration: none; }
+  .login .forgotpass > a:hover {
+    text-decoration: underline; }
+  .login hr {
+    color: #e1e8f19c;
+    width: 364px;
+    margin-top: 17px; }
+  .login .createacc {
+    align-items: center;
+    margin-top: 25px;
+    margin-left: 17px; }
+  .login .createacc > button {
+    width: 192.533px;
+    height: 48px;
+    font-size: 17px;
+    color: #fff;
+    background-color: #4bce31;
+    align-items: center;
+    margin-left: 22.5%; }
+
+.pagead,
+.pagead > a {
+  color: #000000;
+  text-decoration: none;
+  margin-top: 50px;
+  text-align: center;
+  font-size: 14px; }
+
+.pagead > a {
+  font-weight: bolder; }
+
+.pagead > a:hover {
+  text-decoration: underline; }
+
+/*# sourceMappingURL=style.css.map */
